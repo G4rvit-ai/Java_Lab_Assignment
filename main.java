@@ -70,7 +70,9 @@ class Student
 
 
 // Task 2: Student Management System Class
-class StudentManagementSystem {
+
+class StudentManagementSystem 
+{
     Student[] studentList;
     int count;  
 
